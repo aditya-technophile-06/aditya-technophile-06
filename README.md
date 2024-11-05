@@ -33,4 +33,6 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aditya-technophile-06&theme=vue-dark&hide_border=true)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-technophile-06&theme=vue-dark&hide_border=true&layout=compact)
+
 
