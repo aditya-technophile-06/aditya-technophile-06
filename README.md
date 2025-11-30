@@ -1,26 +1,79 @@
 ## Hey, I'm Aditya! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-👨‍💻 Passionate developer with a strong interest in specializing in AI-ML, Generative AI, and Cybersecurity.<br><br>📊 Department Placement Coordinator - Bridging communication between students and the placement cell to streamline opportunities.<br><br>🚀 Founder of the Public Policy and Governance Society at VVCE - fostering innovation in public policy and community engagement.<br><br>🏅 Hackathon Champion - 1st place at Infothon 3.0 (National Level Hackathon) for a Social Innovation project.<br><br>🎖️ Winner of Microsoft Azure AI900 competition, ranking in the top 10 globally.<br><br>💡 Exploring innovative technologies including Generative AI, Blockchain, and cybersecurity solutions.<br><br>🔍 Currently focused on building expertise in AI-ML and Generative AI, with an interest in developing secure systems using blockchain.<br><br>💻 Learning and applying Backend Development skills using Python and frameworks like Flask and Django, and React.<br><br>☁️ Committed to utilizing cloud platforms (GCP, Azure) for impactful AI and ML projects, while also exploring the potential of Blockchain in enhancing data security.<br><br>🤝 Open to collaborating on AI and ML projects, contributing to open source, and co-authoring research papers.
+👨‍💻 Software Developer specializing in **AI-ML, Generative AI, Full-Stack Engineering, and Secure System Design**.  
+Currently building modern digital products for the **BFSI domain** at **Azentio Software**, where I work on frontend, backend, SSO, API integrations, and platform-level architecture.
 
+🚀 **Founder – Public Policy & Governance Society (VVCE)**  
+🏅 **Hackathon Winner – Infothon 3.0 (National Level)**  
+🎖️ **Global Top 10 – Microsoft Azure Vision AI900 Competition**  
+📊 **Former Department Placement Coordinator**
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aditya-m-5249b8228/) 
+🌐 **Portfolio:** https://adityam-dev.vercel.app/
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat&logo=apachespark&logoColor=black) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=flat&logo=apachekafka) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat&logo=solidity&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aditya-technophile-06&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=aditya-technophile-06&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-technophile-06&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+---
+
+# 💡 What I Do
+
+- Build **enterprise-level applications** using React, TypeScript, Java, and Spring Boot  
+- Develop **REST APIs, backend services, and configuration engines**  
+- Integrate **Keycloak (OIDC) authentication & RBAC**  
+- Work on **AI-powered features**, design extraction services, and workflow engines  
+- Develop **ML solutions** for anomaly detection and healthcare diagnostics  
+- Explore **Generative AI, LangChain, and secure blockchain-inspired systems**
+
+---
+
+# 💻 Tech Stack
+
+### **Programming Languages**
+![C++](https://img.shields.io/badge/C++-00599C.svg?logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=white)
+
+### **Frameworks & Libraries**
+![Next.js](https://img.shields.io/badge/Next.js-000000.svg?logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=black)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?logo=fastapi&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-181717.svg)
+![LangChain](https://img.shields.io/badge/LangChain-1C1C1C.svg?logo=chainlink&logoColor=white)
+![Camunda BPM](https://img.shields.io/badge/Camunda-BPM-red)
+
+### **Databases**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?logo=oracle&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-FF4D4D.svg?logo=qdrant&logoColor=white)
+
+### **Tools & DevOps**
+![Git](https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC.svg?logo=bitbucket&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?logo=kubernetes&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?logo=postman&logoColor=white)
+![JFrog](https://img.shields.io/badge/JFrog-41BF47.svg?logo=jfrog&logoColor=white)
+![Nomad](https://img.shields.io/badge/Nomad-00CA8E.svg?logo=hashicorp&logoColor=white)
+![Keycloak](https://img.shields.io/badge/Keycloak-OIDC-2E2E2E.svg?logo=keycloak&logoColor=white)
+
+### **Cloud**
+![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4.svg?logo=googlecloud&logoColor=white)
+![Azure AI](https://img.shields.io/badge/Azure-AI-blue.svg?logo=microsoftazure&logoColor=white)
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=aditya-technophile-06&theme=react&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=aditya-technophile-06&theme=react&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-technophile-06&theme=react&hide_border=false&layout=compact)
+
+---
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=aditya-technophile-06&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
+
 [![](https://visitcount.itsvg.in/api?id=aditya-technophile-06&icon=10&color=13)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
